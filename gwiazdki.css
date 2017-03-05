@@ -1,4 +1,4 @@
-[class^="star8"] {
+.star8 {
 	display: inline-block;
 	margin: 2em;
 	transform: rotate(22deg);
@@ -21,17 +21,17 @@ i.fa {
 	height: 80px;
 }
 
-.star8 gold,
+.star8 .gold,
 .gold:before {
 	border: 6px solid #ffc107;
 }
 
-.star8 orange,
+.star8 .orange,
 .orange:before {
 	border: 6px solid #fd7e33;
 }
 
-.star8 blue,
+.star8 .blue,
 .blue:before {
 	border: 6px solid #3fb0ac;
 }
@@ -77,5 +77,5 @@ i.fa {
 
 
 
-	
+
 
